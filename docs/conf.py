@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-source_suffix = '.md'
+source_suffix = '.rst'
 
 # The master toctree document.
 master_doc = 'index'

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Python \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-21 12:48+0000\n"
+"POT-Creation-Date: 2016-01-21 12:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,11 +16,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../docs/index.md:0
+#: ../../docs/index.rst:2
 msgid "Test page"
 msgstr ""
 
-#: ../../docs/index.md:3
+#: ../../docs/index.rst:4
 msgid "This is a test page"
+msgstr ""
+
+#: ../../docs/index.rst:6
+msgid "This is a test bullet point"
+msgstr ""
+
+#: ../../docs/index.rst:8
+msgid "This is all reStructuredText"
 msgstr ""
 
